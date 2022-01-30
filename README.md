@@ -1,4 +1,4 @@
-Hola, I am Kanika Rawat👋
+Hola, I am Kanika Rawat! 👋
          
 - 🔭 I’m currently working on Power Bi
 - 🌱 I’m currently learning R & App Development. 
