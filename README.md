@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**Kanikarawat12/Kanikarawat12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ ###Hola, I am Kanika Rawat👋
+         
+- 🔭 I’m currently working on Omicron Death Cases Analysis Project. 
+- 🌱 I’m currently learning R language & App Development. 
+- 🤔 I’m looking for help with Figma. 
+- 💬 Ask me about Power BI. 
+- 📫 How to reach me: email- kanikarawat0712@gmail.com
+                       Ig - kaniikarawat
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: I wanna go rattle the stars.✨
 -->
