@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kanika Rawat</h1>
-<h3 align="center">A passionate data analyst and front end developer from India</h3>
+<h3 align="center">Mathematician & Author of Two ebooks</h3>
 
 - 🔭 I’m currently working on **Omicron Death Cases Data Analysis.**
 
