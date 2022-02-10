@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kanika Rawat</h1>
-<h3 align="center">Mathematician, Analyst,Artist & Author of two ebooks.</h3>
+<h3 align="center">Mathematician, analyst, artist & author of two ebooks.</h3>
 
 - 🔭 I’m currently working on **My First Novel**
 
