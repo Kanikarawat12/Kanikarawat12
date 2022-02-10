@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kanika Rawat</h1>
 <h3 align="center">Mathematician & Author of Two ebooks</h3>
 
-- 🔭 I’m currently working on **Omicron Death Cases Data Analysis.**
+- 🔭 I’m currently working on **my first Novel.**
 
-- 🌱 I’m currently learning **R and app development**
+- 🌱 I’m currently learning **R.**
 
-- 🤝 I’m looking for help with **Figma**
+- 🤝 I’m looking for help with **App Development.**
 
 - 📫 How to reach me **kanikarawat0712@gmail.com**
 
